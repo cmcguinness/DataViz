@@ -1,6 +1,6 @@
 # Measles rates by state, 2026
 
-![Map of 2026 measles cases per 100,000 residents by state](measles_rate_map_2026.png)
+![Map of 2026 measles cases per 100,000 residents by state, colored relative to the national rate of 1.13. Utah (15.1) and South Carolina (12.0) are more than eight times the national rate, Pennsylvania (7.4) and North Dakota (4.8) four to eight times, and Wisconsin (3.5) two to four times. Most states, including Texas and Florida, are below it. Full description in alt-text.txt.](measles_rate_map_2026.png)
 
 Most news maps of the 2026 measles surge shade states by raw case counts, which mostly
 reflects state population. This map shows **confirmed cases per 100,000 residents** and colors
